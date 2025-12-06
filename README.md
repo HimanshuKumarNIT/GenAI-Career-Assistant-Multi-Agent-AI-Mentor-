@@ -15,7 +15,7 @@ Interview Preparation: Conducts mock interviews and provides answers to technica
 
 Job Search Support: Provides personalized suggestions for job listings and company research.
 
-Tech Stack
+# Tech Stack
 
 Python, Jupyter Notebook
 
@@ -27,7 +27,7 @@ DuckDuckGo Search for real-time information retrieval
 
 Markdown generation for saving resumes, tutorials, and interview logs
 
-How It Works
+# How It Works
 
 Query Categorization: User inputs are classified into Learning, Resume, Interview, or Job Search categories.
 
