@@ -759,28 +759,6 @@ This allows each agent to focus on a specific responsibility.
 
 ---
 
-# 🚧 Current Limitations
-
-The current version is primarily designed as a functional prototype and demonstration system.
-
-Some workflows, particularly Resume and Mock Interview, were originally designed around conversational/interactive execution and can be further improved for production-grade session management.
-
-Other planned improvements include:
-
-- Persistent conversation memory
-- Session-based multi-turn interactions
-- More advanced Resume Agent workflow
-- Improved Mock Interview state management
-- Better UI/UX
-- Structured job-search filters
-- Better response rendering
-- Production-grade authentication
-- LLM provider abstraction
-- Local LLM support using Ollama
-- Production deployment
-
----
-
 # 🔮 Future Improvements
 
 ## 1. Persistent Conversation Memory
@@ -823,21 +801,6 @@ This can reduce dependency on cloud API quotas during development and testing.
 
 ---
 
-## 3. Improved UI
-
-Future UI improvements can include:
-
-- Chat-style interface
-- Agent/category indicators
-- Loading states
-- Markdown rendering
-- Resume preview
-- Job cards
-- Interview dashboard
-- Conversation history
-
----
-
 # 🔒 Security Considerations
 
 API credentials should always be stored in environment variables.
@@ -868,14 +831,6 @@ The system demonstrates both:
 - **Agentic workflow orchestration**
 
 rather than treating the LLM as a standalone chatbot.
-
----
-
-# 👨‍💻 Author
-
-**Himanshu**
-
-GenAI / AI Engineering Project
 
 ---
 
